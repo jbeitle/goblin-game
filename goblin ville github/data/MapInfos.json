@@ -1,11 +1,12 @@
 [
 null,
-{"id":1,"expanded":true,"name":"MAP001","order":1,"parentId":0,"scrollX":1505.3333333333333,"scrollY":821.3333333333334},
-{"id":2,"expanded":true,"name":"goblinville","order":2,"parentId":1,"scrollX":1096,"scrollY":586.5},
-{"id":3,"expanded":false,"name":"Raaka's Tent","order":3,"parentId":2,"scrollX":1518.6666666666667,"scrollY":834},
-{"id":4,"expanded":false,"name":"forest path","order":4,"parentId":2,"scrollX":1518.6666666666667,"scrollY":834},
-{"id":5,"expanded":false,"name":"Forest","order":5,"parentId":4,"scrollX":1518.6666666666667,"scrollY":834},
-{"id":6,"expanded":false,"name":"Item Shop","order":6,"parentId":2,"scrollX":1518.6666666666667,"scrollY":834},
-{"id":7,"expanded":false,"name":"tavern","order":7,"parentId":2,"scrollX":1518.6666666666667,"scrollY":834},
-{"id":8,"expanded":false,"name":"town hall","order":8,"parentId":2,"scrollX":832,"scrollY":640}
+{"id":1,"expanded":true,"name":"MAP001","order":1,"parentId":0,"scrollX":1505,"scrollY":821.5},
+{"id":2,"expanded":true,"name":"goblinville","order":2,"parentId":1,"scrollX":816,"scrollY":944.5},
+{"id":3,"expanded":false,"name":"Raaka's Tent","order":3,"parentId":2,"scrollX":578,"scrollY":456.5},
+{"id":4,"expanded":true,"name":"forest path","order":4,"parentId":2,"scrollX":578,"scrollY":456.5},
+{"id":5,"expanded":false,"name":"Forest","order":5,"parentId":4,"scrollX":870,"scrollY":784.5},
+{"id":6,"expanded":false,"name":"Item Shop","order":6,"parentId":2,"scrollX":578,"scrollY":456.5},
+{"id":7,"expanded":false,"name":"tavern","order":7,"parentId":2,"scrollX":578,"scrollY":456.5},
+{"id":8,"expanded":false,"name":"town hall","order":8,"parentId":2,"scrollX":578,"scrollY":456.5},
+{"id":9,"expanded":false,"name":"Jail","order":9,"parentId":2,"scrollX":578,"scrollY":456.5}
 ]
