@@ -21,8 +21,4 @@ null,
 {"id":19,"expanded":true,"name":"farm","order":16,"parentId":2,"scrollX":832,"scrollY":640},
 {"id":20,"expanded":true,"name":"VeggieHideout","order":17,"parentId":19,"scrollX":1366.8,"scrollY":750.6},
 {"id":21,"expanded":false,"name":"Church","order":21,"parentId":2,"scrollX":1366.8,"scrollY":750.6}
-{"id":5,"expanded":true,"name":"Forest","order":4,"parentId":4,"scrollX":811,"scrollY":581},
-{"id":9,"expanded":true,"name":"jail land","order":8,"parentId":2,"scrollX":819,"scrollY":461},
-{"id":14,"expanded":false,"name":"sewers","order":13,"parentId":2,"scrollX":842,"scrollY":987},
-{"id":15,"expanded":false,"name":"Jail","order":9,"parentId":9,"scrollX":832,"scrollY":640},
 ]
