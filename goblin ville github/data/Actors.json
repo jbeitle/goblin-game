@@ -1,5 +1,5 @@
 [
 null,
-{"id":1,"battlerName":"raaka2","characterIndex":0,"characterName":"raaka3","classId":1,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"raaka3","traits":[],"initialLevel":99,"maxLevel":99,"name":"Raaka","nickname":"","note":"","profile":""},
+{"id":1,"battlerName":"raaka2","characterIndex":0,"characterName":"raaka3","classId":1,"equips":[0,0,0,3,0],"faceIndex":0,"faceName":"raaka3","traits":[],"initialLevel":99,"maxLevel":99,"name":"Raaka","nickname":"","note":"","profile":""},
 {"id":2,"battlerName":"","characterIndex":0,"characterName":"boar","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"Truffles","nickname":"","note":"","profile":""}
 ]
